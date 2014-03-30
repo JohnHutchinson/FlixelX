@@ -1,6 +1,7 @@
 FlixelX provides several additions to popular game library, flixel
 
 FlxSaveWrapper - a safer way to deal with saving and loading game data from disk
+See http://rubberduckygames.com/flxsavewrapper/
 
 FlxBlinkSprite - just a sprite that blinks at a specified rate
 FlxEmitterLite - lightweight particle emitter
